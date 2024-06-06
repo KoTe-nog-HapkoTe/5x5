@@ -1,0 +1,4 @@
+﻿  5x5.cpp
+5x5.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__InitializeUI в функции _WinMain@16.
+C:\Users\ilis2\OneDrive\Рабочий стол\data\Visual\x64\Debug\Visual.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\ilis2\OneDrive\Рабочий стол\data\5x5\Debug\5x5.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

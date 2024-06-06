@@ -1,0 +1,10 @@
+﻿  pch.cpp
+C:\Users\ilis2\OneDrive\Рабочий стол\data\CWCounter\pch.h(13,17): warning C4273: CalculateCharacterCounts: несовместимое связывание dll
+C:\Users\ilis2\OneDrive\Рабочий стол\data\CWCounter\framework.h(12,28): message : см. предыдущее определение "CalculateCharacterCounts"
+C:\Users\ilis2\OneDrive\Рабочий стол\data\CWCounter\pch.h(14,17): warning C4273: CalculateWordCounts: несовместимое связывание dll
+C:\Users\ilis2\OneDrive\Рабочий стол\data\CWCounter\framework.h(13,28): message : см. предыдущее определение "CalculateWordCounts"
+  dllmain.cpp
+C:\Users\ilis2\OneDrive\Рабочий стол\data\CWCounter\framework.h(4,1): warning C4005: COMPUTEMODULE_API: изменение макроопределения
+C:\Users\ilis2\OneDrive\Рабочий стол\data\CWCounter\framework.h(6,1): message : см. предыдущее определение "COMPUTEMODULE_API"
+     Создается библиотека C:\Users\ilis2\OneDrive\Рабочий стол\data\CWCounter\x64\Debug\CWCounter.lib и объект C:\Users\ilis2\OneDrive\Рабочий стол\data\CWCounter\x64\Debug\CWCounter.exp
+  CWCounter.vcxproj -> C:\Users\ilis2\OneDrive\Рабочий стол\data\CWCounter\x64\Debug\CWCounter.dll
